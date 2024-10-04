@@ -1,0 +1,8 @@
+asgiref
+click
+microsoft-kiota-serialization-json
+msgraph-beta-sdk
+orjson
+python-dotenv
+XlsxWriter
+more_itertools
